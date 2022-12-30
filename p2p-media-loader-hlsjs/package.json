@@ -47,7 +47,7 @@
     "browserify": "^16.5.0",
     "copyfiles": "^2.1.1",
     "mkdirp": "^0.5.1",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "sinon": "^7.4.2",
     "terser": "^4.2.1",
     "ts-loader": "^6.0.4",
